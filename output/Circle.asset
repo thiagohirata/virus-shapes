@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000    
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject:
+    fileID: 0
+  m_PrefabInstance:
+    fileID: 0
+  m_PrefabAsset:
+    fileID: 0
+  m_GameObject:
+    fileID: 0
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script:
+    fileID: 11500000
+    guid: ad079eae81348104c96f5ff56ad7ac73
+    type: 3
+  m_Name:
+    - Circle
+  m_EditorClassIdentifier: null
+  scale: 0.3
+  positions:
+    - x: 11.999996157708553
+      "y": -0.00970723236153538
+      z: 0
+    - x: 9.712344646311463
+      "y": -7.049170958984981
+      z: 0
+    - x: 3.7089681720063203
+      "y": -11.415836290232116
+      z: 0
+    - x: -3.7089681720063203
+      "y": -11.415836290232116
+      z: 0
+    - x: -9.712344646311463
+      "y": -7.049170958984981
+      z: 0
+    - x: -11.999996157708553
+      "y": 0.00970723236153538
+      z: 0
+    - x: -9.712344646311463
+      "y": 7.0491709589849805
+      z: 0
+    - x: -3.7089681720063203
+      "y": 11.415836290232114
+      z: 0
+    - x: 3.7089681720063203
+      "y": 11.415836290232116
+      z: 0
+    - x: 9.712344646311463
+      "y": 7.049170958984981
+      z: 0

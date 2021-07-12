@@ -1,0 +1,16 @@
+{
+  "name": "@thiagohirata/shapes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amd-loader": "^0.0.8",
+    "eve": "^0.5.4",
+    "fast-xml-parser": "^3.19.0",
+    "jsdom": "^16.6.0",
+    "lerp": "^1.0.3",
+    "raphael": "^2.3.0",
+    "shape-points": "^3.0.2",
+    "yaml": "^1.10.2"
+  }
+}
